@@ -16,11 +16,11 @@ body {
     background-color: #006666;
     flex-direction: column;
     color: #cccccc;
+    text-align: center;
 }
 
 .left .img-perfil {
     flex: 3;
-    text-align: center;
     line-height: 0.2;
 
 }
@@ -30,6 +30,7 @@ body {
     background-color: rgba(194, 194, 194, 0.315);
     margin: 2%;
     border-radius: 10%;
+    padding-block-end: 20%;
 
 }
 
@@ -39,6 +40,7 @@ body {
     background-color: rgba(194, 194, 194, 0.315);
     margin: 2%;
     border-radius: 10%;
+    padding-block-end: 20%;
 }
 
 .right {
@@ -51,8 +53,6 @@ body {
 
 .right .sobre {
     flex: 1;
-
-
 }
 
 .right .experiencia {
